@@ -1,0 +1,51 @@
+.fl-pipeline-progress-bar.blueButtons li button.nav-link.active {
+  background-color: rgba(31, 163, 255, 0.29) !important;
+  color: #1fa3ff !important;
+}
+.settings-tabs-title {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #49505b;
+}
+.settings-tabs-text {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  color: #49505b;
+  margin-bottom: 30px;
+}
+.toggleBTNANDLabel label {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  color: #49505b;
+  margin-left: 35px;
+}
+.toggleBTNANDLabel {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.SwitchButtonLoadingImage {
+  height: 30px;
+  width: 75px;
+  object-fit: contain;
+}
+@media (max-width: 575px) {
+  .settings-tabs-title {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .settings-tabs-text {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 30px;
+  }
+  .toggleBTNANDLabel label {
+    font-size: 16px;
+    line-height: 18px;
+    margin-left: 35px;
+  }
+}

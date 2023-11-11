@@ -1,0 +1,344 @@
+.title-part1 {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 68px;
+  line-height: 80px;
+  text-align: right;
+  color: #000000;
+}
+.content-row {
+  padding-top: 70px;
+}
+.work-box {
+  background-image: url(./images/work-box.svg);
+  padding-left: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 68px;
+  line-height: 80px;
+  background-repeat: no-repeat;
+  text-align: left;
+  color: #ffffff;
+  background-position-y: 5px;
+  height: 95px;
+}
+.quality-box {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 47px;
+  background-repeat: no-repeat;
+  background-image: url(./images/quality-box.svg);
+  color: #ffffff;
+  margin-top: 30px;
+  background-position-x: -5px;
+  background-size: contain;
+  height: 55px;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+}
+.quality-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.break-box {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 47px;
+  background-repeat: no-repeat;
+  background-image: url(./images/break-box.svg);
+  color: #ffffff;
+  margin-top: 30px;
+  background-position-x: -5px;
+  background-size: contain;
+  height: 55px;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+}
+.break-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.manage-box {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 47px;
+  background-repeat: no-repeat;
+  background-image: url(./images/manage-box.svg);
+  color: #ffffff;
+  margin-top: 30px;
+  background-position-x: -5px;
+  background-size: contain;
+  height: 55px;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+}
+.manage-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.landing-box1 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 40px 40px 40px;
+}
+.landing-box1-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 35px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 65px 35px 35px 35px;
+  height: 100%;
+  color: #000000;
+}
+.span {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 35px;
+  color: #000000;
+}
+.landing-box2 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 40px 40px 40px;
+}
+.landing-box2-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 35px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 65px 35px 35px 35px;
+  height: 100%;
+  color: #000000;
+}
+.landing-box3 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 40px 40px 40px;
+}
+.landing-box3-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 35px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 65px 35px 35px 35px;
+  color: #000000;
+  height: 100%;
+}
+.landing-box4 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 40px 40px 40px 40px;
+}
+.landing-box4-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 35px;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 35px;
+  position: absolute;
+  top: 85px;
+  right: 25px;
+  color: #000000;
+}
+.landing-obj1 {
+  position: absolute;
+  z-index: 2;
+  top: -45px;
+  right: 80px;
+}
+.landing-obj2 {
+  position: absolute;
+  z-index: 2;
+  top: 205px;
+  right: 212px;
+}
+.landing-obj3 {
+  position: absolute;
+  z-index: 2;
+  top: -1px;
+  right: -55px;
+}
+.landing-obj4 {
+  position: absolute;
+  z-index: 2;
+  top: -40px;
+  right: 145px;
+}
+.landing-obj5 {
+  position: absolute;
+  z-index: 2;
+  top: -40px;
+  right: 0px;
+}
+.landing-obj6 {
+  position: absolute;
+  z-index: 2;
+  top: 125px;
+  right: 209px;
+}
+.landing-obj7 {
+  position: absolute;
+  z-index: 2;
+  top: 200px;
+  right: -7px;
+}
+.landing-obj8 {
+  position: absolute;
+  z-index: 2;
+  top: -40px;
+  right: 0px;
+}
+.landing-obj9 {
+  position: absolute;
+  z-index: 2;
+  top: -18px;
+  right: 145px;
+}
+.landing-obj10 {
+  position: absolute;
+  z-index: 2;
+  top: -40px;
+  right: 0px;
+}
+.landing-obj11 {
+  position: absolute;
+  z-index: 2;
+  top: 85px;
+  right: 10px;
+}
+.landing-obj12 {
+  position: absolute;
+  z-index: 2;
+  top: 200px;
+  right: -7px;
+}
+.landing-boxes {
+  padding-bottom: 80px;
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .work-box {
+    font-size: 60px;
+  }
+  /* .landing-box2 {
+    right: -133px;
+  }
+  .landing-box3 {
+    right: -133px;
+    top: 50px;
+  }
+  .landing-box4 {
+    right: -133px;
+    top: 85px;
+  } */
+  .landing-boxes {
+    padding-bottom: 135px;
+  }
+}
+@media (min-width: 320px) and (max-width: 575px) {
+  /* .landing-box2 {
+    right: -133px;
+  }
+  .landing-box3 {
+    right: -133px;
+    top: 50px;
+  }
+  .landing-box4 {
+    right: -133px;
+    top: 85px;
+  } */
+  .landing-boxes {
+    padding-bottom: 20px;
+  }
+  .work-box {
+    font-size: 40px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 58px;
+    line-height: 80px;
+    color: #000000;
+    background: none;
+  }
+  .landing-obj1 {
+    left: -40px;
+    height: 80px;
+  }
+  .title-part1 {
+    font-size: 58px;
+  }
+  .landing-obj3 {
+    display: none;
+  }
+  .manage-box {
+    background-size: cover;
+    min-height: 55px;
+    padding: 15px;
+    height: unset;
+  }
+}
+@media (max-width: 1200px) {
+  .landing-box1,
+  .landing-box2,
+  .landing-box3,
+  .landing-box4 {
+    margin: 40px auto;
+  }
+}
+@media (max-width: 991px) {
+  .title-part1 {
+    text-align: left;
+  }
+}

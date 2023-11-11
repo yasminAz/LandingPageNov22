@@ -1,0 +1,45 @@
+.About-us-body {
+  background-color: #fffcf3;
+  width: 100%;
+  min-height: 100vh;
+  padding: 230px 0 100px 0 !important;
+}
+/* .about-us-cont {
+  
+} */
+.hi-box {
+  font-weight: 900;
+  font-size: 80px;
+  line-height: 90px;
+  color: #ffffff;
+  background-image: url(./images/hi-orange-box.svg);
+  width: fit-content;
+  background-repeat: no-repeat;
+  padding: 0 5px;
+  background-size: cover;
+  margin: 0;
+}
+.title {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 90px;
+  color: #000000;
+}
+.firstcont {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  color: #000000;
+}
+.firstSub {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  color: #000000;
+}

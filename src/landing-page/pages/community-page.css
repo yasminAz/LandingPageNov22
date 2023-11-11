@@ -1,0 +1,272 @@
+.community-body {
+  background-color: #fffcf3;
+}
+.community-cont {
+  padding-top: 200px;
+}
+.community-splitter {
+  background-image: url(./images/splitter-image.svg);
+  height: 140px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 130px;
+}
+.community-first-box-alignment {
+  display: flex;
+  align-items: center;
+}
+.become-box {
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 59px;
+  color: #ffffff;
+  background-image: url(./images/become-box.svg);
+  width: fit-content;
+  background-repeat: no-repeat;
+  padding: 0 5px;
+  background-size: cover;
+  margin: 0;
+}
+.h3-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 59px;
+  color: #000000;
+}
+.first-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.01em;
+  color: #000000;
+}
+.box1 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 40px 40px 40px;
+  cursor: pointer;
+}
+.box2 {
+  position: relative;
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 40px 40px 40px !important ;
+  cursor: pointer;
+}
+.box3 {
+  position: relative;
+
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 40px 40px 40px;
+  cursor: not-allowed;
+}
+.box4 {
+  position: relative;
+
+  width: 260px;
+  height: 270px;
+  background: #ffedb8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 0px 40px 40px 40px;
+  cursor: pointer;
+}
+.instagram-box-content {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 47px;
+  padding: 25px;
+  align-items: center;
+  color: #000000;
+}
+.instagram {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  top: 175px;
+  left: 5px;
+}
+.twitter {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 180px;
+  left: 15px;
+}
+.slack {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: 190px;
+  left: 15px;
+}
+.linkedin {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: 190px;
+  left: 23px;
+}
+.goto {
+  left: 85px;
+  position: absolute;
+  bottom: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 23px;
+
+  text-align: right;
+}
+.arrow {
+  right: 43px;
+  position: absolute;
+  bottom: 20px;
+}
+.file-header {
+  position: absolute;
+  top: -38px;
+}
+.cards {
+  padding-top: 70px;
+  padding-bottom: 80px;
+}
+.goto2 {
+  left: 105px;
+  position: absolute;
+  bottom: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 23px;
+
+  text-align: right;
+
+  color: #000000;
+}
+.arrow2 {
+  right: 40px;
+  position: absolute;
+  bottom: 20px;
+}
+.goto3 {
+  left: 120px;
+  position: absolute;
+  bottom: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 23px;
+
+  text-align: right;
+}
+.arrow3 {
+  right: 35px;
+  position: absolute;
+  bottom: 20px;
+}
+.goto4 {
+  left: 95px;
+  position: absolute;
+  bottom: 8px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 23px;
+
+  text-align: right;
+}
+.arrow4 {
+  right: 40px;
+  position: absolute;
+  bottom: 20px;
+}
+.obj1 {
+  right: 177px;
+  top: -26px;
+  z-index: 3;
+}
+.obj2 {
+  right: 2px;
+
+  top: -35px;
+  z-index: 2;
+}
+.obj3 {
+  right: -50px;
+  top: 125px;
+  z-index: 2;
+}
+.obj4 {
+  top: -29px;
+  right: -11px;
+  z-index: 2;
+}
+.obj5 {
+  top: 200px;
+  right: -29px;
+  z-index: 2;
+}
+.obj6 {
+  top: 135px;
+  right: -5px;
+  z-index: 2;
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+  .box1 {
+    margin: 40px auto;
+  }
+  .box2 {
+    margin: 40px auto;
+  }
+  .box3 {
+    margin: 40px auto;
+  }
+  .box4 {
+    margin: 40px auto;
+  }
+}
+@media (max-width: 991px) {
+  .become-box {
+    font-size: 48px;
+  }
+  .box1 {
+    margin: 40px auto;
+  }
+  .box2 {
+    margin: 40px auto;
+  }
+  .box3 {
+    margin: 40px auto;
+  }
+  .box4 {
+    margin: 40px auto;
+  }
+  .community-splitter {
+    margin-top: 50px;
+  }
+}
+@media (min-width: 1800px) {
+  .community-splitter {
+    background-repeat: repeat;
+    background-size: contain;
+  }
+}
